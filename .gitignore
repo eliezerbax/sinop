@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SINOP/obj/Debug/net8.0
+/SINOP/obj
+/SINOP.Application/obj
+/.vs/SINOP/FileContentIndex
+/SINOP.Domain/obj
+/SINOP.Domain.Core/obj
+/SINOP.Domain.Services/obj
+/SINOP.Infra.CrossCutting/obj
+/SINOP.Infra.Data.EntityFrameworkCore/obj
