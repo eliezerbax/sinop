@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="7.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SINOP.Application\SINOP.Application.csproj" />
+    <ProjectReference Include="..\SINOP.Domain.Services\SINOP.Domain.Services.csproj" />
+    <ProjectReference Include="..\SINOP.Infra.Data.EntityFrameworkCore\SINOP.Infra.Data.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+</Project>
