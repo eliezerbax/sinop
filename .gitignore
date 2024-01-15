@@ -11,3 +11,12 @@
 /SINOP.Domain.Services/obj
 /SINOP.Infra.CrossCutting/obj
 /SINOP.Infra.Data.EntityFrameworkCore/obj
+/.vs/SINOP
+/SINOP/bin/Debug/net8.0
+/SINOP.Application/bin/Debug/net8.0
+/SINOP.Application/bin/Debug/net6.0
+/SINOP.Domain/bin/Debug
+/SINOP.Domain.Core/bin/Debug
+/SINOP.Domain.Services/bin/Debug
+/SINOP.Infra.CrossCutting/bin/Debug
+/SINOP.Infra.Data.EntityFrameworkCore/bin/Debug
